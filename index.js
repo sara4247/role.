@@ -65,7 +65,7 @@ client.on('guildMemberAdd',async (client, member)=>{
 
 
 
-client.login("MTAwNDQyMDU4ODQ5ODA2MzM5MQ.GEz0Bv.s6OatSpVjyWPJAbW0q71g-iizq2DbgYbAtftvo");
+client.login("MTAwMDY2MTQ3MjY2NzUwMDU0NA.GnjGES.9a8h_Tj5hyi3zTilylS4ZfUsBv9CIjhpUUXagc");
 
 
 
